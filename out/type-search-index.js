@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.iesebre.model","l":"CRUD"},{"p":"com.iesebre.model","l":"EscripturaLectura"},{"p":"com.iesebre","l":"Main"},{"p":"com.iesebre.model","l":"Main"},{"p":"com.iesebre.model","l":"Sushi"},{"p":"com.iesebre.vista","l":"VistaPrincipal"}];updateSearchResults();
